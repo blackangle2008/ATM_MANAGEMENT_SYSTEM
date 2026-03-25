@@ -141,15 +141,6 @@ int main() {
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Install any C++ compiler (e.g., CodeBlocks / Dev C++ / g++)
-2. Copy the code into a `.cpp` file
-3. Compile and run the program
-4. Follow on-screen instructions
-
----
-
 ## 📊 Output (Sample)
 
 ```
