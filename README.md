@@ -158,17 +158,6 @@ int main() {
 
 The ATM Management System project demonstrates how basic banking operations can be implemented using C++ and OOP concepts. It improves understanding of class design, data handling, and user interaction.
 
----
-
-## 🚀 Future Improvements
-
-* Add PIN authentication system
-* Store data using files
-* Multiple user accounts
-* GUI-based interface
-
----
-
 ## 👨‍💻 Author
 
 Sujal Prajapati
